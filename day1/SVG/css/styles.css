@@ -223,6 +223,16 @@ header div.tagline a {
 	color:#ffffff;
 }
 
+/** social **/
+.social-container {
+	display: flex;
+
+}
+
+.social-icon-svg {
+	fill: #fff;
+}
+
 
 
 /** body **/
